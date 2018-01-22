@@ -3,4 +3,6 @@ class Bee extends Grub{
     super(5, "yellow", "jelly", "Mmmmmmmmm jelly");
     this.job = job;
   }
+
+  
 };
